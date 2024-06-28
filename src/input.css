@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.red-hat-display {
+    font-family: "Red Hat Display", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.background {
+    background-color: #dfe8ff;
+    background-repeat: repeat-x;
+}
